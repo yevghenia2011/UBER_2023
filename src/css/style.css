@@ -96,7 +96,7 @@ nav {
 
 .promo {
     height: 800px;
-    background: url('../img/background_1_2-layers.png') center center/cover no-repeat;
+    background: url('img/background_1_2-layers.png') center center/cover no-repeat;
     padding: 150px 0 135px 0;
 }
 

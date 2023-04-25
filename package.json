@@ -1,0 +1,40 @@
+{
+  "name": "uber_2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevghenia2011/UBER_2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevghenia2011/UBER_2023/issues"
+  },
+  "homepage": "https://github.com/yevghenia2011/UBER_2023#readme",
+  "dependencies": {
+    "browser-sync": "^2.29.1",
+    "core-util-is": "^1.0.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "npm": "^9.6.5",
+    "sass": "^1.62.0"
+  },
+  "browserslist": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ],
+
+  "engines": {
+    "node": ">= 10.13",
+    "npm": ">= 6"
+  }
+}
